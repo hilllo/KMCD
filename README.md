@@ -1,6 +1,5 @@
 # A Knowledge-Based Practical Tool For Major-Choosing Decision Making
-* Updated 09/26/16: This project is a support for this thesis published on IEEE: http://ieeexplore.ieee.org/document/7501502/?reload=true
-
+* Updated 09/26/16: This project is a support for thesis A First-Order Logic Framework of Major Choosing Decision Making With an Uncertain Reasoning Function, published on IEEE Transactions on Systems, Man and Cybernetics: Systems (J), DOI: 10.1109/TSMC.2016.2578459, in Press: http://ieeexplore.ieee.org/document/7501502/?reload=true
 * This project is for my Bachelor graduation thesis. What follows is the abstract part of the paper.
 
 Abstract：  
