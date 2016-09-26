@@ -1,4 +1,6 @@
 # A Knowledge-Based Practical Tool For Major-Choosing Decision Making
+* Updated 09/26/16: This project is a support for this thesis published on IEEE: http://ieeexplore.ieee.org/document/7501502/?reload=true
+
 * This project is for my Bachelor graduation thesis. What follows is the abstract part of the paper.
 
 Abstract：  
